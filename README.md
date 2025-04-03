@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:binwon236@gmail.com)](mailto:binwon236@gmail.com)
 
-[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4](https://song-binwon.notion.site/Resume-34c1afd562124c2b88b650745f3a10ab?pvs=4))]([https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4](https://song-binwon.notion.site/Resume-34c1afd562124c2b88b650745f3a10ab?pvs=4))
+[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)](https://song-binwon.notion.site/Resume-34c1afd562124c2b88b650745f3a10ab?pvs=4)
 </div>
 <br>
 <div align=center>
